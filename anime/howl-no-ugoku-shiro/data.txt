@@ -1,0 +1,17 @@
+GENRES
+Adventure
+Drama
+Fantasy
+Romance
+AVG. SCORE
+4.43/5
+TYPE
+MOVIE
+STATUS
+COMPLETED
+EPS
+1
+AIRED
+NOV 2004
+AGE
+G - ALL AGES

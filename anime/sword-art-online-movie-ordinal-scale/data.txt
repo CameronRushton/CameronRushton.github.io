@@ -1,0 +1,18 @@
+GENRES
+Action
+Game
+Adventure
+Romance
+Fantasy
+AVG. SCORE
+4.13/5
+TYPE
+MOVIE
+STATUS
+COMPLETED
+EPS
+1
+AIRED
+FEB 2017
+AGE
+R+ - MILD NUDITY

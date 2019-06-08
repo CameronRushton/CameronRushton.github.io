@@ -1,0 +1,18 @@
+GENRES
+Action
+Adventure
+Comedy
+Fantasy
+Romance
+AVG. SCORE
+4.05/5
+TYPE
+TV
+STATUS
+COMPLETED
+EPS
+13
+AIRED
+APR 2015 - JUN 2015
+AGE
+PG-13 - TEENS 13 OR OLDER
