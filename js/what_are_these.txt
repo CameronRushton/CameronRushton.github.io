@@ -1,4 +1,0 @@
-popper - when the page is thin (width) the header links (home, level n) collapse and you can click the 3 horizontal lines for a drop down.
-stellar & theme - help owl-carousel for the featured shows area.
-jquery stuff are for the above as well.
-bootstrap is bootstrap.
